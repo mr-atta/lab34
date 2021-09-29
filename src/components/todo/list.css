@@ -10,8 +10,7 @@
   padding: 10px;
   margin: 8px;
   border-radius: 5px;
-  border: 1px solid   #343a40;
-  ;
+  border: 1px solid #343a40;
   color: #2b2eff;
   cursor: pointer;
 }
@@ -23,18 +22,17 @@
 
 .paginationActive a {
   color: white;
-  background-color:    #8e99a375;
-  ;
+  background-color: #8e99a375;
 }
 
 .paginationDisabled a {
-font-size: 20px;
+  font-size: 20px;
 }
 
-.pending{
+.pending {
   background-color: green;
 }
 
-.complete{
+.complete {
   background-color: grey;
 }
